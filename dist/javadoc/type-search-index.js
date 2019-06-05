@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"tratamiento","l":"Antiedad"},{"p":"tratamiento","l":"Cliente"},{"p":"tratamiento","l":"Factura"},{"p":"tratamiento","l":"Hidratante"},{"p":"tratamiento","l":"Main"},{"p":"tratamiento","l":"Tratamiento"}]
